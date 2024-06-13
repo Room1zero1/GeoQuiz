@@ -8,6 +8,6 @@
     <string name="question_africa">Амазонка самая длинная река Африки.</string>
     <string name="question_americas">США были основаны в 1776 году.</string>
     <string name="question_asia">Гималаи самые высокие горы на планете.</string>
-    <string name="correct_toast">Correct!</string>
-    <string name="incorrect_toast">Incorrect!</string>
+    <string name="correct_toast">Правильно!</string>
+    <string name="incorrect_toast">А вот и нет!</string>
 </resources>
